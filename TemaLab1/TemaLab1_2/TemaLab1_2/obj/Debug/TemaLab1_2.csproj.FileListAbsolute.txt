@@ -1,0 +1,13 @@
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\bin\Debug\TemaLab1_2.exe.config
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\bin\Debug\TemaLab1_2.exe
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\bin\Debug\TemaLab1_2.pdb
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\bin\Debug\System.Data.SqlClient.dll
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\bin\Debug\System.Data.SqlClient.xml
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.csprojAssemblyReference.cache
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.Form1.resources
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.Properties.Resources.resources
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.csproj.GenerateResource.cache
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.csproj.CoreCompileInputs.cache
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.csproj.CopyComplete
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.exe
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Teme\Lab1\TemaLab1_2\TemaLab1_2\obj\Debug\TemaLab1_2.pdb
