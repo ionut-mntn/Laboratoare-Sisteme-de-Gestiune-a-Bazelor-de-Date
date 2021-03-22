@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Facultate\\sem IV\\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\\TemaLab2\\TemaLab2_1\\TemaLab1_3\\TemaLab1_3\\TemaLab2_1.csproj": {}
+  },
+  "projects": {
+    "E:\\Facultate\\sem IV\\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\\TemaLab2\\TemaLab2_1\\TemaLab1_3\\TemaLab1_3\\TemaLab2_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Facultate\\sem IV\\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\\TemaLab2\\TemaLab2_1\\TemaLab1_3\\TemaLab1_3\\TemaLab2_1.csproj",
+        "projectName": "TemaLab2_1",
+        "projectPath": "E:\\Facultate\\sem IV\\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\\TemaLab2\\TemaLab2_1\\TemaLab1_3\\TemaLab1_3\\TemaLab2_1.csproj",
+        "packagesPath": "C:\\Users\\Ionut\\.nuget\\packages\\",
+        "outputPath": "E:\\Facultate\\sem IV\\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\\TemaLab2\\TemaLab2_1\\TemaLab1_3\\TemaLab1_3\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Ionut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

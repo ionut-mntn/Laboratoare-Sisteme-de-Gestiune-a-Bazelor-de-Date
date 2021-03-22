@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaxHD9Y/SeUyd9K9CCqPwrtMaQo2WwBM/nOZabyxDqEiuYP45DSiH4FL/hOAim1cqZqk4LsJoH2H+3Wq38tElQ==",
+  "success": true,
+  "projectFilePath": "E:\\Facultate\\sem IV\\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\\TemaLab2\\TemaLab2_1\\TemaLab1_3\\TemaLab1_3\\TemaLab2_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ionut\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ionut\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\Ionut\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ionut\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ionut\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

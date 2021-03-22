@@ -1,0 +1,8 @@
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\bin\Debug\TemaLab2_proba.exe.config
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\bin\Debug\TemaLab2_proba.exe
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\bin\Debug\TemaLab2_proba.pdb
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\obj\Debug\TemaLab2_proba.Properties.Resources.resources
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\obj\Debug\TemaLab2_proba.csproj.GenerateResource.cache
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\obj\Debug\TemaLab2_proba.csproj.CoreCompileInputs.cache
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\obj\Debug\TemaLab2_proba.exe
+E:\Facultate\sem IV\SGBD - Sisteme de Gestiune a Bazelor de Date (Cristea Diana)\Laboratoare-Sisteme-de-Gestiune-a-Bazelor-de-Date\TemaLab2\TemaLab2_proba\TemaLab2_proba\obj\Debug\TemaLab2_proba.pdb

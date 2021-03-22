@@ -213,6 +213,7 @@ id_subclub int foreign key references Subclub,
 primary key (CNP, id_subclub)
 )
 drop table Angajati
+select * from Angajati
 
 alter table Angajati
 add 
@@ -516,3 +517,11 @@ insert into Antrenament values
 --=====================================================================================================================================================================
 select * from Subclub
 select * from Sportiv
+--=====
+-- DE AICI IN JOS SGBD
+SELECT ColumnName = col.column_name
+FROM information_schema.table_constraints tc
+INNER JOIN information_schema.key_column_usage col 
+ON col.Constraint_Name = tc.Constraint_Name AND col.Constraint_schema = tc.Constraint_schema
+WHERE tc.Constraint_Type = 'Primary Key' 
+AND col.Table_name = 'Angajati'
